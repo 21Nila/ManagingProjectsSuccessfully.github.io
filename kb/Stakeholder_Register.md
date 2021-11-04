@@ -1,8 +1,8 @@
 ---
 title: Stakeholder_Register
-tags: agil klassisch
+tags: agil klassisch stakeholder register
 author: 21Nila
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Stakeholder_Register um ein erstes Verständnis dafür zu schaffen um was es hier geht.
