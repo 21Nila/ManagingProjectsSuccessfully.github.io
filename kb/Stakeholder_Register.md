@@ -1,9 +1,11 @@
 ---
 title: Stakeholder_Register
-tags: agil klassisch
+tags: agil klassisch stakeholder register
 author: 21Nila
-anrechnung: k oder a
+anrechnung: k
 ---
+Das Stakeholder Konzept besteht aus vielen verschiedenen Bestandteilen, welche alle eine Rolle zum Erfolg des Stakeholder Konzepts beitragen.
+Ein zentraler Bestandteil ist dabei das Stakeholder Register. Dies ist ein Dokument, welches alle wesentlichen Informationen über die Stakeholder im Projekt beinhaltet. Somit behält man stets einen guten Überblick über die Stakholder und gibt eine Basis zur Analyse.
 
 Kurzbeschreibung zu Stakeholder_Register um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
@@ -101,4 +103,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^01]: https://projektmanagement24.de/stakeholder-register#:~:text=%20Diese%20Informationen%20sollte%20das%20Stakeholder%20Register%20enthalten%3A,Konfliktpotential%20des%20Stakeholders%20%28hoch%2C%20mittel%2C%20niedrig%29%20More%20
+[^02]: https://twproject.com/blog/project-stakeholder-register/
 
